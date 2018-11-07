@@ -2,6 +2,8 @@ package com.example.demo;
 
 import java.io.Serializable;
 
+import org.springframework.data.mongodb.core.mapping.Document;
+import org.springframework.data.annotation.Id;
 
 
 @Document
